@@ -9,4 +9,4 @@ This tutorial shows how to add a Bitcoin Lightning checkout page to your react a
 5. run `yarn start`
 
 # Disclaimer
-This tutorial calls the MinatoPay API directly from the frontend (client). In a real deployed app, you should do this from the backend, as calling the API directly from the frontend exposes the API key. A tutorial incorporating a backend will be published at a later date.
+This tutorial calls the [MinatoPay API](https://minatopay.com/) directly from the frontend (client). In a real deployed app, you should do this from the backend, as calling the API directly from the frontend exposes the API key. A tutorial incorporating a backend will be published at a later date.
